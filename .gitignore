@@ -1,0 +1,17 @@
+# Scraped data - don't publish raw user content
+greekrank_posts.csv
+
+# Generated outputs
+analysis_output/
+
+# Python environment junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# IDE files
+.idea/
+.vscode/
+*.egg-info/
